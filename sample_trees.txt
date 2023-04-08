@@ -1,0 +1,37 @@
+Sentence: "list saturday flights ."
+['list', 'saturday', 'flights', '.']
+Parses: 5
+
+(SIGMA
+  (
+    (NP_NP ( (NP_NN: list) (NOUN_NP: saturday)))
+    (KCJ ( (NOUN_NNS: flights) (pt_char_per: .)))))
+
+(SIGMA
+  (
+    (NP_NN ( (NOUN_NN: list) (NAPPOS_NP: saturday)))
+    (KCD ( (NOUN_NNS: flights) (pt_char_per: .)))))
+
+(SIGMA
+  (
+    (VERB_VB: list)
+    (JKB
+      (
+        (NP_NNS ( (NP_NP: saturday) (NOUN_NNS: flights)))
+        (pt_char_per: .)))))
+
+(SIGMA
+  (
+    (VERB_VB: list)
+    (GXA
+      (
+        (NP_NP: saturday)
+        (GXB ( (NP_NNS: flights) (pt_char_per: .)))))))
+
+(SIGMA
+  (
+    (NOUN_NN: list)
+    (JWS
+      (
+        (RELCL_VBZ ( (NP_NP: saturday) (VERB_VBZ: flights)))
+        (pt_char_per: .)))))

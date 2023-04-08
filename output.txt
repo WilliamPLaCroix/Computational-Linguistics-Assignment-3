@@ -1,0 +1,98 @@
+prices .	2 parses
+show availability .	3 parses
+show the flights .	1 parses
+milwaukee to detroit .	2 parses
+indianapolis to seattle .	2 parses
+list round trips .	7 parses
+list saturday flights .	5 parses
+what aircraft is this .	0 parses
+list these economy fares .	0 parses
+list these city destinations .	0 parses
+what is the fare .	2 parses
+which flights are cheapest .	0 parses
+list flights from cleveland .	5 parses
+what are the costs .	2 parses
+can i have the fare .	1 parses
+what is e w r .	1 parses
+oakland to salt lake city .	12 parses
+show me northwest flights to detroit .	6 parses
+i want to leave before noon .	1 parses
+what flights leave boston to pittsburgh .	2 parses
+i 'd like an afternoon flight .	3 parses
+are any fares cheaper than these .	0 parses
+what is the flying time from .	0 parses
+which flights use a large plane .	6 parses
+what area does canadian airlines international service .	0 parses
+what flights leave las vegas to oakland .	2 parses
+show me the airlines and flight numbers .	4 parses
+what airlines fly from toronto to detroit .	4 parses
+which city is cheapest to fly into .	0 parses
+does delta fly to boston from denver .	12 parses
+what is the duration of this flight .	0 parses
+what flights leave los angeles arriving in minneapolis .	4 parses
+i can only spend a hundred fifty dollars .	0 parses
+i 'd like to leave on a saturday .	2 parses
+orlando to kansas city and then to minneapolis .	3 parses
+is there a flight from memphis to los angeles .	5 parses
+what if i wanted to leave on may fifth .	0 parses
+list u s air flights from dallas to boston .	21 parses
+i need a flight from philadelphia to westchester county .	5 parses
+what is the cheapest ticket from memphis to miami .	4 parses
+find a flight from washington d c to milwaukee .	20 parses
+find a flight from washington d c to montreal .	20 parses
+show american flights after twelve p.m. from miami to chicago .	0 parses
+how far is it from the airport to the city .	1 parses
+list those flights that stop over in salt lake city .	6 parses
+i want first class on flight one one one nine .	1 parses
+please show me all flights from montreal to las vegas .	3 parses
+i need the shortest evening flight from tampa to cincinnati .	6 parses
+how much is the fare limousine san francisco to downtown .	1 parses
+i need a flight from pittsburgh to newark on monday .	6 parses
+what meals are served on flight h p five four .	1 parses
+i 'll be leaving on a friday at four o'clock .	0 parses
+i 'd like to leave before eight o'clock at night .	2 parses
+please tell me the round trip cost for these flights .	4 parses
+i would like a flight from orlando to kansas city .	7 parses
+what is the cheapest one way flight from columbus to indianapolis .	5 parses
+count the number of flights between nine a.m. and twelve noon .	0 parses
+i need a flight from los angeles to minneapolis thursday afternoon .	10 parses
+please list flights departing from toronto canada to washington on saturday .	10 parses
+please list costs of round trip fares from denver to atlanta .	11 parses
+please give me a one way flight from washington to cincinnati .	3 parses
+does united flight four seven four slash fourteen eighty four serve dinner .	0 parses
+show me flights from detroit to san diego on tuesday may third .	0 parses
+i would like to find a flight from charlotte to las vegas .	2 parses
+the flight going to san diego from toronto should stop in denver .	0 parses
+show me flights from chicago to kansas city leaving around seven p.m. thursday .	14 parses
+can you tell me about the flights from saint petersburg to toronto again .	1 parses
+i would like to leave on thursday morning may fifth before six a.m .	0 parses
+i need a first class round trip airfare from detroit to saint petersburg .	9 parses
+how far is the airport from new york 's la guardia to downtown .	1 parses
+i 'd like to fly from buffalo to either orlando or long beach .	0 parses
+please list all flights from pittsburgh to toronto on nationair and canadian airlines international .	19 parses
+how long is the stop in dallas on flight d l nine thirty one .	1 parses
+please show me all first class flights from pittsburgh to newark on monday morning .	5 parses
+please show me all first class flights from indianapolis to memphis leaving monday morning .	5 parses
+please show me all flights from ontario to salt lake city leaving monday morning .	4 parses
+i need an american airlines flight number from chicago to philadelphia departing six p.m .	8 parses
+for american airlines i need round trip airfare from new york to san diego .	1 parses
+how much does a first class round trip ticket from detroit to saint petersburg cost .	57 parses
+what flights departing montreal have less than one hundred and fifty dollars round trip fare .	20 parses
+i need a flight from charlotte to las vegas that makes a stop in saint louis .	11 parses
+please show me the flights from chicago to detroit that arrive at six p.m. next tuesday .	3 parses
+what flights are available between chicago and indianapolis next wednesday between eleven a.m. and one p.m .	0 parses
+how many flights leave from lester b pearson international airport between nine a.m. and twelve noon .	0 parses
+how many times a day can i fly from boston to pittsburgh to newark to boston .	0 parses
+what flights do you have available on march twenty fourth leaving minneapolis arriving in seattle by .	0 parses
+how much does flight number a nineteen cost from new york to los angeles on monday morning .	42 parses
+i 'd like to fly out of chicago for less than a hundred fifty dollars round trip .	0 parses
+what type of aircraft is used on a flight from cleveland to dallas that leaves before noon .	4 parses
+what kind of aircraft is american 's flight fifteen oh one that departs at six fifty nine p.m .	0 parses
+how much does first class on that flight cost and how much does coach on that flight cost .	2 parses
+please book a one way coach fare from chicago to indianapolis on united flight two ninety two next wednesday .	0 parses
+please give me the number of flights that depart from lester b pearson international airport on april twenty fifth .	0 parses
+please list the flights leaving newark stopping over in seattle for approximately five hours and then on to san francisco .	3 parses
+i 'd like the cheapest round trip ticket from minneapolis to san diego arriving in san diego before seven p.m .	9 parses
+what is the cheapest first class ticket available flying from new york to miami one way but also round trip .	14 parses
+what is the cheapest one way flight from phoenix to san diego that arrives in the morning on thursday june second .	8 parses
+i 'd like to fly from indianapolis to houston on t w a and the plane should arrive around eleven a.m .	0 parses
